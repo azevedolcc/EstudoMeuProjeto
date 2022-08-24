@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  nome: string = 'Luiz';
+  nome: string = 'Luiz ';
   ultimoId = 0;
   adicionado = false;
   funcionarios = [{ id: 0, nome: 'null' }];
